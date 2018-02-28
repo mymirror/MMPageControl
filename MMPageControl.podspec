@@ -90,7 +90,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "MMPageControl/MMPageControl.h", "MMPageControl/MMPageControl.m"
+  s.source_files  = "MMPageControl/MMPageControll.h", "MMPageControl/MMPageControll.m"
 
   # s.public_header_files = "Classes/**/*.h"
 
